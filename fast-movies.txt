@@ -10,7 +10,7 @@ Fast 7
 The Fate of the Furious
 Fast and Furious Presents: Hobbs and Shaw
 
-Harry Potter Movies
+List of Harry Potter Movies.
 
 Harry Potter and the Philosopher's Stone
 Harry Potter and the Chamber of Secretes
@@ -22,3 +22,4 @@ Harry Potter and the Deathly Hallows Part 1
 Harry Potter and the Deathly Hallows Part 2
 
 These are all the Harry Potter Movies that were added as per issue request #3.
+This also solves issue #4.
